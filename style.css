@@ -1,0 +1,58 @@
+body {
+    font-family:  papyrus;
+    font-weight :bold ;
+    background-color :lightpink ;
+    background-image: url('desktop/backg.jpg');
+  }
+  li.completed {
+    text-decoration: line-through;
+    color: gray;
+  }
+  .btn btn-sm btn-danger delete{
+      background-color: purple;
+      color:white ;
+  }
+ li{
+  background-color: lightpink;
+ }
+ .mb-4 text-center{
+    color:purple;
+ }
+
+ 
+ .form-check-input {
+    background-color:purple ;
+     border:0px
+ }
+
+ .btn btn-sm btn-danger delete {
+    background-color:purple ;
+     color:white ;
+      width:100px
+
+ }
+
+ #btn {
+    background-color:purple;
+    color:white ;
+     border:0px ;
+      width:100px
+ }
+
+ #to-do-h {
+
+    font-family:papyrus ;
+    font-weight :bold ;
+ }
+
+ #todo-list {
+
+    font-family:papyrus ;
+    font-weight :bold ;
+ }
+
+ #dev {
+    font-family:papyrus ;
+    font-weight :bold ;
+
+ }
